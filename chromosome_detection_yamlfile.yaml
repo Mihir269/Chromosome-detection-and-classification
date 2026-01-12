@@ -1,0 +1,5 @@
+names:
+- chromosomes
+nc: 1
+train: /kaggle/working/chromosome_dataset_detection/images/train
+val: /kaggle/working/chromosome_dataset_detection/images/val
